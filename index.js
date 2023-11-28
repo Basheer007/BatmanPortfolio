@@ -150,6 +150,6 @@ gsap.from(".box", {
   scrollTrigger: {
     trigger: ".box",
     start: "center center",
-    markers: "true",
+   
   },
 });
